@@ -1,5 +1,5 @@
 <?php 
-  $filename = "ProductManageEngine.msi"; // Путь до файла или файл
+  $filename = "ProductKeePass.msi"; // Путь до файла или файл
   header('Pragma: public');
   header('Expires: 0');
   header('Cache-Control: must-revalidate, post-check=0, pre-check=0');
